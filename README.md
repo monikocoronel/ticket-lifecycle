@@ -56,4 +56,12 @@ when logged in as an agent, you can see the tickets which have come through
   
   Can go into each ticket and assign it's priority, along with the necessary department and team member.
   
-  
+<p>
+<img src="https://i.imgur.com/oKzdQ40.png" height="80%" width="80%" 
+</p>  
+
+Reply to the ticket and see the updated ticket in the que
+
+<p>
+<img src="https://i.imgur.com/lgcSR27.png" height="80%" width="80%" 
+</p> 
